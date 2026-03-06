@@ -11,4 +11,4 @@ Este repositorio contiene el desarrollo de un algoritmo en Python para el análi
 - Python 3
 - numpy
 - Matemáticas
-  
+  pipipi 
